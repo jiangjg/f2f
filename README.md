@@ -1,5 +1,8 @@
 # 目录
 
-## the hash() function in HashMap
+## HashMap
+1. the hash() function in HashMap
+
+
 
 loading...
