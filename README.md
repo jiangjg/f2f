@@ -1,2 +1,5 @@
-# f2f
-some skills
+# 目录
+
+1. the hash() function in HashMap
+
+loading...
